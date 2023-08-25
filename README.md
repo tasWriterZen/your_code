@@ -1,9 +1,7 @@
 # your_code
 <!DOCTYPE html>	
 <html>
-	<head>
-		<title> sk tasim </title>
-		<
+	<head>		
 	</head>
 	<body>
 		<h1 align="center">my name in game </h1>
